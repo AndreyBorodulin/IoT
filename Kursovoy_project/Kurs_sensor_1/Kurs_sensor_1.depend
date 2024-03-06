@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1708177303 source:d:\andrey\iot\ДЗ\Си базовый\к 14.02.2024\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
+1708177372 d:\andrey\iot\ДЗ\Си базовый\к 14.02.2024\kurs_sensor_1\temp_api.h
+	<stdint.h>
+
+1708176244 source:d:\andrey\iot\ДЗ\Си базовый\к 14.02.2024\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"temp_api.h"
+
+1708179844 source:d:\andrey\iot\ДЗ\Си_базовый\к_14.02.2024\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"temp_api.h"
+
+1708177372 d:\andrey\iot\ДЗ\Си_базовый\к_14.02.2024\kurs_sensor_1\temp_api.h
+	<stdint.h>
+
+1708177303 source:d:\andrey\iot\ДЗ\Си_базовый\к_14.02.2024\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
+1708925510 source:d:\andrey\iot\hw\c-base\к_17.02.24\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
+1708859481 d:\andrey\iot\hw\c-base\к_17.02.24\kurs_sensor_1\temp_api.h
+	<stdint.h>
+	<stdio.h>
+
+1708925737 source:d:\andrey\iot\hw\c-base\к_17.02.24\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	"temp_api.h"
+	<locale.h>
+	<unistd.h>
+
+1709491774 source:d:\andrey\iot\hw\c-base\kursovoy_02.03.24\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
+1709419421 d:\andrey\iot\hw\c-base\kursovoy_02.03.24\kurs_sensor_1\temp_api.h
+	<stdint.h>
+	<stdio.h>
+
+1709493993 source:d:\andrey\iot\hw\c-base\kursovoy_02.03.24\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	"temp_api.h"
+	<locale.h>
+	<unistd.h>
+
+1709587632 source:d:\andrey\iot\hw\c-base\kursovoy_03.03.24\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
+1709583472 d:\andrey\iot\hw\c-base\kursovoy_03.03.24\kurs_sensor_1\temp_api.h
+	<stdint.h>
+	<stdio.h>
+
+1709593244 source:d:\andrey\iot\hw\c-base\kursovoy_03.03.24\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	"temp_api.h"
+	<locale.h>
+	<unistd.h>
+
