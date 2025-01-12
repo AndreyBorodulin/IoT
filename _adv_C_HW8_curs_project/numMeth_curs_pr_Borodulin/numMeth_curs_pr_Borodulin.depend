@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1736704263 source:d:\andrey\iot\hw\c_expert\8_curs\nummeth_curs_pr_borodulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"my_num_meth.h"
+
+1736700536 d:\andrey\iot\hw\c_expert\8_curs\nummeth_curs_pr_borodulin\my_num_meth.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1736700536 source:d:\andrey\iot\hw\c_expert\8_curs\nummeth_curs_pr_borodulin\my_num_meth.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1736700456 source:d:\andrey\iot\hw\c_expert\8_curs\nummeth_curs_pr_borodulin\my_func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"my_num_meth.h"
+
