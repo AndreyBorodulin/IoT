@@ -76,3 +76,20 @@
 	<locale.h>
 	<unistd.h>
 
+1709752746 source:d:\andrey\iot\hw itog\base c hw\kursovoy_project\kurs_sensor_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+	"temp_api.h"
+	<locale.h>
+	<unistd.h>
+
+1709583472 d:\andrey\iot\hw itog\base c hw\kursovoy_project\kurs_sensor_1\temp_api.h
+	<stdint.h>
+	<stdio.h>
+
+1709752904 source:d:\andrey\iot\hw itog\base c hw\kursovoy_project\kurs_sensor_1\temp_api.c
+	"temp_api.h"
+	<stdio.h>
+
